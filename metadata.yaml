@@ -1,0 +1,29 @@
+_repo: At-Large_35684
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35684-h/images/cover.png
+creator:
+  author:
+    agent_name: Hornung, E. W. (Ernest William)
+    alias: Hornung, Ernest William
+    birthdate: 1866
+    deathdate: 1921
+    gutenberg_agent_id: '364'
+    url: http://www.gutenberg.org/2009/agents/364
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_William_Hornung
+description: ''
+gutenberg_issued: '2011-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Australians -- England -- Fiction'
+title: At Large
+url: http://www.gutenberg.org/ebooks/35684
